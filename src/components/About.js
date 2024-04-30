@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="bg-gradient-to-b from-black via-black to-gray-800 w-full h-screen text-white"
+      className="bg-gradient-to-b from-black via-black to-gray-800 w-full min-h-screen text-white"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
@@ -13,19 +13,18 @@ const About = () => {
           </p>
         </div>
         <p className="text-lg mt-20">
-          Minim magna quis voluptate commodo cupidatat aute exercitation.Sunt
-          cupidatat minim tempor commodo occaecat fugiat ex dolore amet id aute
-          nostrud.onsequat do adipisicing laboris in consequat est consequat et
-          ipsum ut duis.
+          Abdullah Oriyomi Idris(Yomabd) received his second-class
+          upper-division degree from Unilorin. He is a software Engineer and a
+          Google-certified IT support specialist. I have experience working with
+          a team in designing, developing and hosting functional web
+          applications.
         </p>
         <br />
         <p className="text-lg">
-          Nulla duis quis cillum cupidatat ex proident est pariatur dolor. Ea
-          duis laboris irure ea elit sunt reprehenderit eiusmod.Enim culpa minim
-          incididunt voluptate excepteur sunt velit irure excepteur. Laboris
-          consequat ullamco commodo ea. Nisi excepteur magna officia commodo
-          ipsum irure do. Est adipisicing occaecat dolor ut est duis proident id
-          est labore incididunt.
+          He creates websites that are both visually stunning and tailored to
+          your preferences. He is capable of increasing efficiency and
+          productivity by automating the majority of tedious computing
+          operations.
         </p>
       </div>
     </div>
