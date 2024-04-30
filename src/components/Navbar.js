@@ -40,7 +40,7 @@ const Navbar = () => {
             className="px-4 cursor-pointer capitalize font-medium text-gray-500 hover:translate-x-0.5 
                     duration-200"
           >
-            <Link to={link} smooth={true} duration={500}>
+            <Link to={link} smooth={true} offset={-65} duration={500}>
               {link}
             </Link>
           </li>
@@ -62,6 +62,7 @@ const Navbar = () => {
               <Link
                 onClick={() => setNav(!nav)}
                 to={link}
+                offset={-70}
                 smooth={true}
                 duration={500}
               >
